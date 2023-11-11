@@ -23,3 +23,4 @@ max-line-length = 80
 per-file-ignores =
     # __init__ exports names
     src/click/__init__.py: F401
+ 
